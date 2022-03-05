@@ -1,0 +1,118 @@
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\appsettings.Development.json
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\appsettings.json
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.exe
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.deps.json
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.runtimeconfig.json
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.runtimeconfig.dev.json
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\ref\2019EJ650_2019PA603.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\2019EJ650_2019PA603.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.AssemblyReference.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.AssemblyInfoInputs.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.AssemblyInfo.cs
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.CoreCompileInputs.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.MvcApplicationPartsAssemblyInfo.cs
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.MvcApplicationPartsAssemblyInfo.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\staticwebassets\2019EJ650_2019PA603.StaticWebAssets.Manifest.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\staticwebassets\2019EJ650_2019PA603.StaticWebAssets.xml
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\scopedcss\bundle\2019EJ650_2019PA603.styles.css
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.RazorTargetAssemblyInfo.cache
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.CopyComplete
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\ref\2019EJ650_2019PA603.dll
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.pdb
+C:\UNICAESWEB\2019EJ650_2019PA603\obj\Debug\net5.0\2019EJ650_2019PA603.genruntimeconfig.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\appsettings.json
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.StaticWebAssets.xml
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.exe
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.deps.json
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.runtimeconfig.json
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.runtimeconfig.dev.json
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\2019EJ650_2019PA603.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.AssemblyReference.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.AssemblyInfoInputs.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.AssemblyInfo.cs
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.CoreCompileInputs.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\scopedcss\bundle\2019EJ650_2019PA603.styles.css
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\staticwebassets\2019EJ650_2019PA603.StaticWebAssets.Manifest.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.RazorTargetAssemblyInfo.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.csproj.CopyComplete
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\refint\2019EJ650_2019PA603.dll
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.pdb
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\2019EJ650_2019PA603.genruntimeconfig.cache
+C:\Users\Parker\Documents\UNIVERSIDAD\MATERIAS\Paginas Web\LABO 1 DPWA\2019PA603_-2019EJ650\2019PA603_-2019EJ650\obj\Debug\net5.0\ref\2019EJ650_2019PA603.dll
